@@ -1,5 +1,42 @@
 [
-  {"nom": "Brosse anti-poils réutilisable ACE2ACE", "prix": "16,23 €", "prix_date": "04/11/2026", "asin": "B0819XVK92", "emoji": "🐈", "reel": "", "publie": false},
-  {"nom": "Support téléphone voiture magnétique UGREEN", "prix": "11,99 €", "prix_date": "04/11/2026", "asin": "B0D2Q5M35Y", "emoji": "🚗", "reel": "", "publie": false},
-  {"nom": "Organisateur de câbles magnétique UGREEN", "prix": "8,99 €", "prix_date": "04/11/2026", "asin": "B0DXDVLV4W", "emoji": "🔌", "reel": "", "publie": false}
+  {
+    "nom": "Support téléphone voiture magnétique UGREEN",
+    "prix": "11,99 €",
+    "prix_date": "05/11/2026",
+    "asin": "B0D2Q5M35Y",
+    "emoji": "🚗",
+    "reel": "05/11",
+    "publie": true,
+    "image": "img/B0D2Q5M35Y.jpg"
+  },
+  {
+    "nom": "Organisateur de câbles magnétique UGREEN",
+    "prix": "8,99 €",
+    "prix_date": "05/11/2026",
+    "asin": "B0DXDVLV4W",
+    "emoji": "🔌",
+    "reel": "05/11",
+    "publie": true,
+    "image": "img/B0DXDVLV4W.jpg"
+  },
+  {
+    "nom": "50 clips de câbles adhésifs SOULWIT",
+    "prix": "15,95 €",
+    "prix_date": "05/11/2026",
+    "asin": "B07RQCXCR2",
+    "emoji": "🖇️",
+    "reel": "05/11",
+    "publie": true,
+    "image": "img/B07RQCXCR2.jpg"
+  },
+  {
+    "nom": "Brosse anti-poils réutilisable ACE2ACE",
+    "prix": "16,23 €",
+    "prix_date": "05/11/2026",
+    "asin": "B0819XVK92",
+    "emoji": "🐈",
+    "reel": "06/11",
+    "publie": true,
+    "image": "img/B0819XVK92.jpg"
+  }
 ]
