@@ -7,7 +7,11 @@
   "emoji": "🚗",
   "reel": "05/11",
   "publie": true,
-  "image": "img/B0D2Q5M35Y.jpg"
+  "image": "img/B0D2Q5M35Y.jpg",
+  "categorie": "voiture",
+  "note": 4.5,
+  "avis": 8026,
+  "ajoute": "2026-11-05"
  },
  {
   "nom": "Organisateur de câbles magnétique UGREEN",
@@ -17,7 +21,11 @@
   "emoji": "🔌",
   "reel": "05/11",
   "publie": true,
-  "image": "img/B0DXDVLV4W.jpg"
+  "image": "img/B0DXDVLV4W.jpg",
+  "categorie": "bureau",
+  "note": 4.6,
+  "avis": 1571,
+  "ajoute": "2026-11-05"
  },
  {
   "nom": "50 clips de câbles adhésifs SOULWIT",
@@ -27,7 +35,11 @@
   "emoji": "🖇️",
   "reel": "05/11",
   "publie": true,
-  "image": "img/B07RQCXCR2.jpg"
+  "image": "img/B07RQCXCR2.jpg",
+  "categorie": "bureau",
+  "note": 4.6,
+  "avis": 12133,
+  "ajoute": "2026-11-05"
  },
  {
   "nom": "Brosse anti-poils réutilisable ACE2ACE",
@@ -37,7 +49,11 @@
   "emoji": "🐈",
   "reel": "06/11",
   "publie": true,
-  "image": "img/B0819XVK92.jpg"
+  "image": "img/B0819XVK92.jpg",
+  "categorie": "maison",
+  "note": 4.3,
+  "avis": 103426,
+  "ajoute": "2026-11-06"
  },
  {
   "nom": "Lampe d'armoire LED à détecteur OUILA (lot de 2)",
@@ -47,7 +63,11 @@
   "emoji": "💡",
   "reel": "07/11",
   "publie": true,
-  "image": "img/B09DP2XV1V.jpg"
+  "image": "img/B09DP2XV1V.jpg",
+  "categorie": "maison",
+  "note": 4.5,
+  "avis": 18608,
+  "ajoute": "2026-11-07"
  },
  {
   "nom": "Gratte-givre avec gant doublé polaire MICHELIN",
@@ -57,7 +77,11 @@
   "emoji": "🧤",
   "reel": "06/11",
   "publie": true,
-  "image": "img/B00BIGXI1S.jpg"
+  "image": "img/B00BIGXI1S.jpg",
+  "categorie": "voiture",
+  "note": 4.6,
+  "avis": 106,
+  "ajoute": "2026-11-06"
  },
  {
   "nom": "Bas de porte anti-courant d'air adhésif Vellure",
@@ -67,7 +91,11 @@
   "emoji": "🚪",
   "reel": "06/11",
   "publie": true,
-  "image": "img/B08XWFQ1RL.jpg"
+  "image": "img/B08XWFQ1RL.jpg",
+  "categorie": "maison",
+  "note": 4.4,
+  "avis": 25023,
+  "ajoute": "2026-11-06"
  },
  {
   "nom": "Protège pare-brise anti-givre magnétique Tevlaphee",
@@ -77,7 +105,11 @@
   "emoji": "❄️",
   "reel": "06/11",
   "publie": true,
-  "image": "img/B077RQ6WKQ.jpg"
+  "image": "img/B077RQ6WKQ.jpg",
+  "categorie": "voiture",
+  "note": 4.4,
+  "avis": 10316,
+  "ajoute": "2026-11-06"
  },
  {
   "nom": "Ouvre-bocal BRIX Jarkey",
@@ -87,6 +119,10 @@
   "emoji": "🫙",
   "reel": "06/11",
   "publie": true,
-  "image": "img/B002YYMMUG.jpg"
+  "image": "img/B002YYMMUG.jpg",
+  "categorie": "cuisine",
+  "note": 4.8,
+  "avis": 2302,
+  "ajoute": "2026-11-06"
  }
 ]
