@@ -72,7 +72,7 @@
  {
   "nom": "Gratte-givre avec gant doublé polaire MICHELIN",
   "prix": "15,50 €",
-  "prix_date": "06/11/2026",
+  "prix_date": "07/11/2026",
   "asin": "B00BIGXI1S",
   "emoji": "🧤",
   "reel": "06/11",
@@ -86,7 +86,7 @@
  {
   "nom": "Bas de porte anti-courant d'air adhésif Vellure",
   "prix": "14,90 €",
-  "prix_date": "06/11/2026",
+  "prix_date": "07/11/2026",
   "asin": "B08XWFQ1RL",
   "emoji": "🚪",
   "reel": "06/11",
@@ -100,7 +100,7 @@
  {
   "nom": "Protège pare-brise anti-givre magnétique Tevlaphee",
   "prix": "26,59 €",
-  "prix_date": "06/11/2026",
+  "prix_date": "07/11/2026",
   "asin": "B077RQ6WKQ",
   "emoji": "❄️",
   "reel": "06/11",
@@ -124,5 +124,33 @@
   "note": 4.8,
   "avis": 2302,
   "ajoute": "2026-11-06"
+ },
+ {
+  "nom": "Rasoir anti-bouloches Philips GC026",
+  "prix": "16,40 €",
+  "prix_date": "07/11/2026",
+  "asin": "B07M8J529S",
+  "emoji": "🎁",
+  "reel": "",
+  "publie": false,
+  "image": "img/B07M8J529S.jpg",
+  "categorie": "maison",
+  "note": 4.5,
+  "avis": 154272,
+  "ajoute": "2026-11-07"
+ },
+ {
+  "nom": "Lot de 2 rideaux occultants thermiques PONY DANCE 140x240",
+  "prix": "21,99 €",
+  "prix_date": "07/11/2026",
+  "asin": "B01IAX26MI",
+  "emoji": "🎁",
+  "reel": "",
+  "publie": false,
+  "image": "img/B01IAX26MI.jpg",
+  "categorie": "maison",
+  "note": 4.5,
+  "avis": 47397,
+  "ajoute": "2026-11-07"
  }
 ]
