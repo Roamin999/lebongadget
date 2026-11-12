@@ -10,7 +10,7 @@
   "image": "img/B0D2Q5M35Y.jpg",
   "categorie": "voiture",
   "note": 4.5,
-  "avis": 8092,
+  "avis": 8100,
   "ajoute": "2026-11-05"
  },
  {
@@ -108,7 +108,7 @@
   "image": "img/B077RQ6WKQ.jpg",
   "categorie": "voiture",
   "note": 4.4,
-  "avis": 10337,
+  "avis": 10340,
   "ajoute": "2026-11-06"
  },
  {
@@ -136,7 +136,7 @@
   "image": "img/B07M8J529S.jpg",
   "categorie": "maison",
   "note": 4.5,
-  "avis": 151337,
+  "avis": 151353,
   "ajoute": "2026-11-07"
  },
  {
@@ -192,7 +192,7 @@
   "image": "img/B0C3BC4QG2.jpg",
   "categorie": "cadeau",
   "note": 4.8,
-  "avis": 42736,
+  "avis": 42759,
   "ajoute": "2026-11-12"
  },
  {
@@ -258,11 +258,123 @@
   "asin": "B0CHHVVJ6C",
   "categorie": "voyage",
   "note": 4.6,
-  "avis": 12773,
+  "avis": 12786,
   "ajoute": "2026-11-12",
   "image": "img/B0CHHVVJ6C.jpg",
   "publie": true,
   "emoji": "☕",
   "reel": "14/11"
+ },
+ {
+  "nom": "Chauffe-mains rechargeables OCOOPA (lot de 2)",
+  "prix": "19,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B0FHKYW91D",
+  "emoji": "🧤",
+  "reel": "15/11",
+  "publie": true,
+  "image": "img/B0FHKYW91D.jpg",
+  "categorie": "exterieur",
+  "note": 4.5,
+  "avis": 2772,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Plaid polaire Bedsure 150 x 200 cm",
+  "prix": "17,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B077D1V7SJ",
+  "emoji": "🛋️",
+  "reel": "15/11",
+  "publie": true,
+  "image": "img/B077D1V7SJ.jpg",
+  "categorie": "maison",
+  "note": 4.6,
+  "avis": 45167,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Presse-ail Jsdoin",
+  "prix": "8,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B07DNBX1C4",
+  "emoji": "🧄",
+  "reel": "15/11",
+  "publie": true,
+  "image": "img/B07DNBX1C4.jpg",
+  "categorie": "cuisine",
+  "note": 4.4,
+  "avis": 19913,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Thermomètre de cuisson TempPro TP02S",
+  "prix": "10,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B01LXI5HYH",
+  "emoji": "🌡️",
+  "reel": "15/11",
+  "publie": true,
+  "image": "img/B01LXI5HYH.jpg",
+  "categorie": "cuisine",
+  "note": 4.5,
+  "avis": 44257,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Masque de nuit occultant Gritin",
+  "prix": "8,69 €",
+  "prix_date": "12/11/2026",
+  "asin": "B0CRYX3FCZ",
+  "emoji": "😴",
+  "reel": "15/11",
+  "publie": true,
+  "image": "img/B0CRYX3FCZ.jpg",
+  "categorie": "voyage",
+  "note": 4.7,
+  "avis": 15290,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Mousseur à lait rechargeable CIRCLE JOY",
+  "prix": "13,53 €",
+  "prix_date": "12/11/2026",
+  "asin": "B0DPG6SNV1",
+  "emoji": "☕",
+  "reel": "16/11",
+  "publie": true,
+  "image": "img/B0DPG6SNV1.jpg",
+  "categorie": "cuisine",
+  "note": 4.5,
+  "avis": 9211,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Balance de cuisine GRIFEMA GA2002",
+  "prix": "7,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B08NDVTN5C",
+  "emoji": "⚖️",
+  "reel": "17/11",
+  "publie": true,
+  "image": "img/B08NDVTN5C.jpg",
+  "categorie": "cuisine",
+  "note": 4.5,
+  "avis": 21130,
+  "ajoute": "2026-11-12"
+ },
+ {
+  "nom": "Bouillotte à housse polaire MUPAS",
+  "prix": "12,99 €",
+  "prix_date": "12/11/2026",
+  "asin": "B0D7M6TW7N",
+  "emoji": "🔥",
+  "reel": "17/11",
+  "publie": true,
+  "image": "img/B0D7M6TW7N.jpg",
+  "categorie": "maison",
+  "note": 4.4,
+  "avis": 2200,
+  "ajoute": "2026-11-12"
  }
 ]
